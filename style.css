@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.color {
+    color: rgb(255, 255, 255);
+}
+
+.button {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.display {
+    display: flex;
+    padding: 2%;
+    background-image: url(images/banner-bg.png);
+    background-size: 1400px 500px;
+    background-repeat: no-repeat;
+}
+
+.a {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.demo {
+    padding-left: 20px;
+}
+
+.menu_text {
+    width: 76%;
+    float: right;
+}
+
+.color2 {
+    color: aqua;
+}
+
+.center {
+    text-align: center;
+}
+
+.layout {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+}
+
+section {
+    padding: 50px;
+}
+
+.b {
+    text-align: center;
+}
+
+.play {
+    display: flex;
+    background-color: darkblue;
+    color: white;
+    padding: 2%;
+}
